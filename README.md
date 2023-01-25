@@ -1,2 +1,7 @@
-Vercel build, image loads: https://netlify-next-image-repro.vercel.app/
-Netlify build, image does not load: https://precious-beijinho-b723ec.netlify.app/
+## Vercel
+
+Image loads: https://netlify-next-image-repro.vercel.app/
+
+## Netlify
+
+Image does not load: https://precious-beijinho-b723ec.netlify.app/
